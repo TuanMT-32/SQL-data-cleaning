@@ -3,6 +3,3 @@ SQL data cleaning is the process of using SQL (Structured Query Language) to ide
 
 In real-world scenarios, raw data often contains errors like duplicates, missing values, typos, inconsistent formats, or irrelevant information. SQL offers powerful tools to clean and transform this data directly within the database.
 
-Select * 
-FROM club_member_info
-LIMIT 10;
