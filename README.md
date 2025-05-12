@@ -40,6 +40,8 @@ Here are the basic issues I always start with when it comes to data cleaning:
 
 **C. Null or Blank Values:** Determine whether missing values can be filled in or if the row should be removed from the dataset.
 
+---------------------------------------------------------------------------
+
 ### A. Finding and Removing Duplicates
 
 There are several ways to find duplicates, but based on the course I took, this is a simple method using a subquery to identify duplicate rows.
